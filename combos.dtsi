@@ -1,0 +1,14 @@
+
+        combo_coni_config {
+            timeout-ms = <80>;
+            key-positions = <0 1>;
+            bindings = <&coni_config_macro>;
+        };
+            
+
+        combo_acs_Accessor {
+            timeout-ms = <80>;
+            key-positions = <0 1>;
+            bindings = <&acs_Accessor_macro>;
+        };
+            

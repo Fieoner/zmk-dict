@@ -1,0 +1,9 @@
+
+/ {
+    macros {
+
+        ZMK_MACRO(coni_config_macro, wait-ms = <1>; tap-ms = <1>; bindings = <&kp C &kp O &kp N &kp F &kp I &kp G &kp SPC>;)
+        ZMK_MACRO(acs_Accessor_macro, wait-ms = <1>; tap-ms = <1>; bindings = <&kp A &kp C &kp C &kp E &kp S &kp S &kp O &kp R &kp SPC>;)
+
+    };
+};
